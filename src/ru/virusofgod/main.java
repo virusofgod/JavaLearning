@@ -53,8 +53,17 @@ public class main {
             } else {
                 System.out.println("Число не чётное");
             }
+            System.out.println(12.2 % 2);
         }*/
-        System.out.println(12.2 % 2);
+
+  // counter ++
+        /*{
+         int minutes = 10;
+         System.out.println(minutes++);
+         System.out.println(minutes);
+         minutes -= 1;
+         System.out.println(minutes);
+        }*/
 
 
     }
