@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
 
- //initilzation of variables
+        //initilzation of variables
       /*  {
 
             System.out.println("Введите два и я посчитаю их сумму");
@@ -56,7 +56,7 @@ public class main {
             System.out.println(12.2 % 2);
         }*/
 
-  // counter ++
+        // counter ++
         /*{
          int minutes = 10;
          System.out.println(minutes++);
@@ -64,6 +64,17 @@ public class main {
          minutes -= 1;
          System.out.println(minutes);
         }*/
+
+       // char type
+        {
+        char a = 8667;
+        char b = '\u21db';
+        char c = '⇛';
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println((int) c);
+        System.out.println(c);
+       }
 
 
     }
