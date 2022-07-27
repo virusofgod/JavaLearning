@@ -32,6 +32,15 @@ public class main {
             System.out.println(x);
         }*/
 
+        //operation () операции и переменные и константы
+    /*    {
+            System.out.println((5) / 3); // в данном случае константа int можно разделить 1 раз
+            System.out.println((double) (5)); // Это double поэтому здесь 5.0
+            System.out.println((double) (5) / 3); // можем разделить 1.6666666666666667 раз
+        }*/
+
+
+
 
     }
 }
