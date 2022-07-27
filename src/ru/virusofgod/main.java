@@ -1,7 +1,28 @@
 package ru.virusofgod;
+import java.util.Locale;
+import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println("hello world");
+
+ //initilzation of variables
+      /*  {
+
+            System.out.println("Введите два и я посчитаю их сумму");
+            System.out.println("--------------------------------------------");
+
+            double a, b;
+            Scanner in = new Scanner(System.in);
+            in.useLocale(Locale.US);
+            System.out.print("Введите число а ");
+            a = in.nextDouble();
+            System.out.print("Введите число b ");
+            b = in.nextDouble();
+
+            System.out.println("--------------------------------------------");
+            System.out.println("Сумма числа а и числа b = " + (a + b));
+        }*/
+
+
     }
 }
