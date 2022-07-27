@@ -39,7 +39,22 @@ public class main {
             System.out.println((double) (5) / 3); // можем разделить 1.6666666666666667 раз
         }*/
 
-
+        //Операции вычисление остатка от деления оператор ветвления if проверка на чётность
+/*      {
+            Scanner in = new Scanner(System.in);
+            in.useLocale(Locale.US);
+            System.out.println("Введите число и я проверю его на чётность или не чётность");
+            System.out.println("------------------------------------------------------------");
+            System.out.print("Введите значение ");
+            double value = in.nextDouble();
+            System.out.println("------------------------------------------------------------");
+            if (value % 2 == 0) {
+                System.out.println("Число чётное");
+            } else {
+                System.out.println("Число не чётное");
+            }
+        }*/
+        System.out.println(12.2 % 2);
 
 
     }
