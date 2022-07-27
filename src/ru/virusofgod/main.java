@@ -23,6 +23,15 @@ public class main {
             System.out.println("Сумма числа а и числа b = " + (a + b));
         }*/
 
+        // types // типы переменных приведение типа переменной
+   /*     {
+            // int g = ( ( a + b ) \ c )
+            // a + (b + c)
+            long x = 1000000;
+            System.out.println((int) (x * x));
+            System.out.println(x);
+        }*/
+
 
     }
 }
