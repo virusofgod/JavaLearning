@@ -6,7 +6,7 @@ public class main {
     public static void main(String[] args) {
 
         //initilzation of variables
-      /*  {
+       /*  {
 
             System.out.println("Введите два и я посчитаю их сумму");
             System.out.println("--------------------------------------------");
@@ -24,7 +24,7 @@ public class main {
         }*/
 
         // types // типы переменных приведение типа переменной
-   /*     {
+       /*     {
             // int g = ( ( a + b ) \ c )
             // a + (b + c)
             long x = 1000000;
@@ -33,14 +33,14 @@ public class main {
         }*/
 
         //operation () операции и переменные и константы
-    /*    {
+       /*    {
             System.out.println((5) / 3); // в данном случае константа int можно разделить 1 раз
             System.out.println((double) (5)); // Это double поэтому здесь 5.0
             System.out.println((double) (5) / 3); // можем разделить 1.6666666666666667 раз
         }*/
 
         //Операции вычисление остатка от деления оператор ветвления if проверка на чётность
-/*      {
+      /*      {
             Scanner in = new Scanner(System.in);
             in.useLocale(Locale.US);
             System.out.println("Введите число и я проверю его на чётность или не чётность");
@@ -57,7 +57,7 @@ public class main {
         }*/
 
         // counter ++
-        /*{
+      /*{
          int minutes = 10;
          System.out.println(minutes++);
          System.out.println(minutes);
@@ -65,8 +65,8 @@ public class main {
          System.out.println(minutes);
         }*/
 
-       // char type
-        {
+        // char type
+     /* {
         char a = 8667;
         char b = '\u21db';
         char c = '⇛';
@@ -74,8 +74,8 @@ public class main {
         System.out.println(b);
         System.out.println((int) c);
         System.out.println(c);
-       }
+       }*/
 
-
+     
     }
 }
